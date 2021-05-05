@@ -1,0 +1,8 @@
+**/node_modules
+**.idea
+**.iml
+**/logs
+**.jar
+**.cmd
+**.bat
+**/public/assets
